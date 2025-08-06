@@ -1,0 +1,6 @@
+.ansbible
+.vscode
+galaxy-roles/
+git-roles/
+vault-key*
+vault-users*
