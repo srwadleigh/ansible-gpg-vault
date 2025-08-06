@@ -1,5 +1,13 @@
 # Ansible GPG Vault
 
+
+Add submodule
+
+```
+git submodule add git@github.com:srwadleigh/ansible-gpg-vault.git vault
+```
+
+
 Set defaults in `ansible.cfg`
 
 ```
