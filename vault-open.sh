@@ -2,7 +2,7 @@
 
 VAULT_PATH=$(dirname "$(realpath "$0")")
 VAULT_CMD="gpg --quiet --batch --use-agent --decrypt"
-VAULT_KEY_FILE=vault-key.gpg
+VAULT_KEY_FILE="../.vault/vault-key.gpg"
 
 # define the password in a static env
 # VAULT_KEY
